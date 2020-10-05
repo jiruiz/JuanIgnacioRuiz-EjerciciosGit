@@ -1,5 +1,5 @@
 Principales Paradigmas: 
-- Programación Estructurada
-- Programación Orientada a Objetos
-- Programación Funcional
-- Programación Reactiva
+- Programación Estructurada (POO)
+- Programación Orientada a Objetos(ASASD)
+- Programación Funcional(123)
+- Programación Reactiva(321)
